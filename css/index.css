@@ -1,0 +1,410 @@
+/*  主体 main start*/
+#main{
+    width: 1000px;
+    height: 835px;
+    margin: 0 auto;
+    padding-top: 30px;
+    float: left;
+}
+.main-left{
+    width: 202px;
+    height: 689px;
+    float: left;
+    margin-right: 30px;
+
+}
+.main-left-one1{
+    width: 200px;
+    height: 202px;
+    border: solid 1px #f6f6f6;
+
+}
+.main-left-one1 img{
+}
+.main-left-one1 li{
+
+    background-color: #f5f5f5;
+    margin-bottom: 2px;
+}
+.main-left-one1 li img{
+    float: left;
+}
+.main-left-one1 a{
+    font-size: 16px;
+    color: #333;
+    line-height: 38px;
+}
+#main-h2{
+    height:48px;line-height:48px;width:200px;border-bottom:3px solid #f2222c;
+    font-size:18px;color:#333;
+}
+.main-left-center{
+    width: 200px;
+    height: 172px;
+    border: solid 1px #333;
+    margin-top: -21px;
+    float: left;
+}
+.main-left-center-one{
+    height: 40px;
+    margin-bottom: 13px;
+    line-height: 20px;
+}
+.main-left-center-two{
+    width: 40px;
+    height: 40px;
+    background-color: #f66f76;
+    font-size: 14px;
+    color: #fde7e8;
+    text-align: center;
+    font-weight:bold;
+    margin :13px 10px 0 13px ;
+    border-radius:3px;
+    float: left;
+}
+.main-left-center-one li{
+
+    line-height: 20px;
+    margin-right: 12px;
+    float: left;
+}
+.main-left-center-one li a{
+    font-size:12px;
+    color:#444;
+}
+.main-left-bottom h2{
+    height:48px;line-height:48px;width:200px;border-bottom:3px solid #f2222c;
+    font-size:18px;color:#333; float: left;
+}
+.main-left-bottom-box{
+    width: 202px;
+    height: 196px;
+    border: solid 1px #dfdfdf;
+    float: left;
+}
+.main-left-bottom-box1 {/*ul 1*/
+    width: 200px;
+    height: 60px;
+    padding-top: 20px;
+}
+.main-left-bottom-box2 {   /*ul 2*/
+    width: 200px;
+    height: 60px;
+
+}
+.main-left-bottom-box ul li{
+    float: left;
+    margin-right: 6px;
+    text-align: center;
+}
+.main-left-bottom-box ul li img{
+    /*float: left;*/
+}
+.main-left-bottom-box ul li a{
+    font-size: 12px;
+    color: #333;
+}
+
+/*主体中间部分 main start*/
+#main-center{
+    width: 421px;
+    height: 690px;
+    float: left;
+    background-color: #ffffff;
+}
+.main-center-box1{
+    width: 421px;
+    height: 132px;
+    background: url("../images/背景图.jpg");
+    border: dotted 1px #333;
+}
+.main-center-box1 a{
+    font-size: 12px;
+    color: #494949;
+}
+.main-center-box1-left{
+    float: left;
+    margin-right: 70px;
+    margin-top: 3px;
+
+}
+.main-center-box1-left li{
+    line-height: 30px;
+    margin-left:35px;
+}
+.main-center-box1-right{
+    line-height: 30px;
+    margin-left:35px;
+    margin-top: 3px;
+}
+#main-center h2{
+    color: #ef2d36;
+    font-size: 22px;
+    margin-top: 29px;
+    padding-bottom: 25px;
+}
+/*招考信息 下边*/
+.main-center-nov{
+    width: 422px;
+    height: 34px;
+    border-bottom:solid 1px #e4e4e4;
+    margin-bottom: 19px;
+}
+.main-center-zkgg{
+    width: 81px;
+    height: 33px;
+    font-size: 16px;
+    font-weight:bold;
+    color: #333333;
+    border-bottom:solid 2px #f2222c;
+    float: left;
+}
+.main-center-nov li{
+    float: left;
+    margin-left: 14px;
+}
+.main-center-nov li a{
+    font-size: 14px;
+    color: #888888;
+}
+#main-center-box2{
+    width: 422px;
+    height: 450px;
+    margin-bottom: 22px;
+}
+.main-center-box2-box1{
+    line-height: 34px;
+    padding-bottom: 50px;
+}
+#main-center-box2 li a{
+    font-size: 14px;
+    color: #444444;
+    float: left;
+}
+#main-center-box2 li span{
+    font-size: 12px;
+    color: #999;
+    float: right;
+}
+/*主体中间部分 main end*/
+
+/*主体右边部分 main right  start*/
+#main-right{
+    width: 322px;
+    height: 688px;
+    float: right;
+}
+#main-right h2{
+    font-size: 20px;
+    margin-top: 25px;
+    color: #333333;
+    margin-bottom: 10px;
+}
+.main-right-box1{
+    width: 320px;
+    height: 170px;
+    background: url("../images/shugang_03.jpg") no-repeat
+     3px 6px;
+}
+.main-right-left{
+    width:50px;
+    height: 163px;
+    padding-top: 5px;
+    padding-left: 10px;
+    float: left;
+}
+.header-inder-left-f1{
+    width: 38px;
+    height: 20px;
+    border: solid 1px #dfdfdf;
+    margin-bottom: 12px;
+    padding-left: 10px;
+
+}
+.header-inder-left-f1 p{
+    font-size: 12px;
+    color: #888888;
+}
+.header-inder-right{
+    width: 260px;
+    height: 164px;
+
+    float: right;
+    padding-top: 3px;
+}
+.header-inder-right ul li{
+    font-size: 13px;
+    margin-bottom: 18px;
+}
+.header-inder-right ul li a{
+    font-size: 13px;
+    color: #333333;
+    font-weight: bold;
+}
+.main-right-box2{
+    width: 322px;
+    height: 256px;
+
+}
+.main-right-box2 p{
+    float:right ;
+    margin-top: -35px;
+}
+.main-right-box2 p span{
+    color: red;
+}
+/*主体右边部分 main right  end*/
+
+.banner{
+    width: 1000px;
+    height: 100px;
+    margin-top: -100px;
+    float: right;
+}
+.bkzl{
+    width: 100px;
+    height: 42px;
+    border-bottom: solid 3px #f55d64;
+    float: left;
+    margin-top: 35px;
+}
+.bkzl h3{
+    line-height: 38px;
+    color: red;
+}
+.bkzl-right{
+    width:899px;
+    height: 42px;
+    float: right;
+    border-bottom: solid 2px #d2d2d2;
+    margin-top: 37px;
+}
+.beikaoqu{
+    width: 1000px;
+    float: left;
+}
+.beikaoqu-f1{
+    width: 312px;
+    height: 208px;
+   float: left;
+    padding-right: 20px;
+
+}
+.beikaoqu-f1 h5{
+    font-size: 16px;
+    color: #f222;
+    line-height: 46px;
+}
+.beikaoqu-f1 p{
+    padding-left: 6px;
+    line-height: 32px;
+    background: url("../images/符号_11.jpg") no-repeat  left center;
+}
+.beikaoqu-f1 p a{
+    font-size: 12px;
+    color: #333333;
+    line-height: 32px;
+}
+.beikaoqu-f1 span{
+    float: right;
+    font-size: 12px;
+    color: #999999;
+    line-height: 32px;
+}
+.beikaoqu-f1-tupian-span1{
+    padding-top: -30px;
+}
+
+
+/*小广告*/
+.beikaoqu-f1-tupian{
+    width: 322px;
+    height: 90px;
+    float: right;
+}
+.a1{
+    width: 120px;
+    height: 86px;
+    float: left;
+    padding-right: 13px;
+}
+#beikaoqu-f1-tupian-p{
+    color: #999999;
+    line-height: 29px;
+    font-size: 12px;
+}
+.ckxq{
+    color: #ef2d36;
+    font-size: 12px;
+}
+/*辅导用书部分  stard*/
+.fudao{
+    width: 1000px;
+    height: 342px;
+    float: left;
+}
+
+.fudao-a1{
+    width: 188px;
+    height: 336px;
+    float: left;
+}
+.fudao-a1 img{
+    padding: 46px 0 0 46px  ;
+}
+.fudao-a1 ul li{
+     line-height: 25px;
+    text-align: center;
+}
+.fudao-a1 ul li span{
+    color:#555555 ;
+    font-size: 12px;
+}
+.ljgm{
+    width: 106px;
+    height: 35px;
+    display: inline-block;
+    line-height:35px;
+    background-color: #ef2d36;
+    margin-left: 38px;
+    border-radius:10px;
+   margin-top: 12px;
+}
+.ljgm a{
+    text-align: center;
+    line-height: 35px;
+    font-size: 18px;
+    color:#fbf1ff;
+}
+/*辅导用书部分 end*/
+
+/*友情链接部分 stard*/
+.yqlj{
+    width: 1000px;
+    height: 212px;
+    float: left;
+    background-color: #f8f8f8;
+}
+.yqlj-top{
+    width: 960px;
+    height: 60px;
+    border-bottom: solid 1px #e4e4e4;
+    margin: 0 auto;
+}
+.yqlj-top-left{
+    font: 18px/60px "Microsoft Yahei";
+    padding-right: 30px;
+}
+.yqlj-top-right{
+    display: inline-block;
+    width: 80px;
+    height: 60px;
+}
+.yqlj-top-right{
+    font: 18px/60px "Microsoft Yahei";
+    color: red;
+    border-bottom: solid 1px #333333;
+}
+/*友情链接部分 end*/
+/*  主体 main end*/
+

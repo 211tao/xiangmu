@@ -1,0 +1,176 @@
+/*重置样式 start*/
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style:none;
+}
+img{
+    border: 0px;
+}
+input{
+    outline:none;
+}
+/*重置样式end*/
+
+/*总盒子 start*/
+#box{
+    width: 1000px;
+    height: 2672px;
+    margin:0 auto;
+}
+/*总盒子 end*/
+/*header start*/
+#header{
+    width: 1000px;
+    height: 136px;
+    margin:0 auto;
+    padding-bottom: 30px;
+}
+.header-inner{
+    width: 1000px;
+    height: 44px;
+    margin: 0 auto;
+
+}
+.header-inder-left{
+    width: 468px;
+    height: 44px;
+    float: left;
+}
+.header-inder-left li{
+    float: left;
+    width: 72px;
+    margin-right: 17px;
+    background:url("../images/首页_03.jpg") no-repeat
+    right center;
+}
+.header-inder-left li a{
+    color: #333333;
+    font-size: 14px;
+    line-height: 44px;
+}
+#header-inner-first{
+    margin-left:18px ;
+    background:none;
+}
+.header-inner-right{
+    width: 348px;
+    height: 44px;
+    float: right;
+}
+.header-inner-right ul{
+    float: right;
+}
+.header-inner-right li{
+    float: left;
+    margin-right:20px;
+}
+.header-inner-right li a{
+    font-size: 14px ;
+    line-height: 44px;
+    color: #333;
+}
+.header-inner-right li img{
+    margin-right:3px;
+    float: left;
+    margin-top: 16px;
+}
+#header-inner-right-dh{
+    color: #e75757;
+}
+
+/* nav start*/
+#nav{
+    height: 88px;
+    width: 1000px;
+    border-bottom: 3px solid #ef2d36;margin-bottom: 15px;
+}
+.nav-inner{
+    width: 1000px;
+    height: 88px;
+    margin: 0 auto;
+}
+.logo{
+    width: 190px;
+    height: 38px;
+    padding: 20px 16px 0 0;
+    float: left;
+}
+.nav-inner h2{
+    font-size: 20px;
+    color: #333333;
+    float: left;
+    margin-top: 30px;
+    height: 28px;
+    width: 133px;
+    border-left:1px dashed #cccccc;
+    padding-left: 9px;
+}
+.nav-right{
+    width: 575px;
+    height: 17px;
+    float: right;
+    padding-top: 40px;
+}
+.nav-right li{
+    float: left;
+    width: 60px;
+    margin-right: 17px;
+    background:url("../images/xiegang.jpg") no-repeat
+     right center;
+}
+#nav-right-last{
+    margin-right: 0;
+    width:36px;
+    background:none;
+    color: red;
+}
+.nav-right li a{
+    font-size: 18px;
+    color: #333;
+}
+#nav-right-one{
+    color: red;
+}
+#local-nav{
+    width: 1000px;
+    height: 68px;
+    background-color: #f6f6f6;
+    margin: 0 auto;
+    padding-top: 20px;
+    float: left;
+}
+#local-nav li{
+     float: left;
+    margin-right: 29px;
+}
+#local-nav li a{
+    font-size: 14px;
+    color: #333333;
+}
+#local-nav-last a{
+    color: red;
+    line-height: 33px;
+    margin-right: 0;
+}
+.seach{
+    width: 142px;
+    height: 28px;
+    border: 1px solid #990000;
+    margin-right:50px;
+    background: url( "../images/shousuo.jpg" ) no-repeat 116px ;
+    float: right;
+}
+/*nav end*/
+/*header end*/
+
+
+
+
+
+
